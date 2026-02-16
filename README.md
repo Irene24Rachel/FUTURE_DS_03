@@ -1,1 +1,2 @@
 # FUTURE_DS_03
+The analysis reveals a structured pricing strategy within the ASOS women’s product catalog. Brand positioning plays a significant role in price differentiation, while discount patterns suggest targeted markdowns rather than across-the-board price reductions. Higher recommended retail prices are often associated with proportionally higher discounts, enhancing perceived savings. Overall, the pricing architecture reflects a balance between accessibility and premium positioning within specific categories.
